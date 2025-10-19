@@ -24,7 +24,6 @@ Hospital-System/
 | **Backend** | Spring Boot (Java) |
 | **Base de Datos** | PostgreSQL |
 | **ORM** | JPA / Hibernate |
-| **Servidor** | Tomcat embebido |
 | **Control de versiones** | Git + GitHub |
 
 ---
